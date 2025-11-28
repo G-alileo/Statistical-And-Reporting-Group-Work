@@ -1,5 +1,5 @@
 """
-This file demonstrates concepts covered in the Arrays and Data Frames folder:
+This file demonstrates concepts covered in the Arrays and Data Frames Statistical Computing:
 - Arrays and matrices
 - Multi-dimensional data structures
 - Array operations and functions

@@ -1,5 +1,5 @@
 """
-This file demonstrates concepts covered in the Graphics folder:
+This file demonstrates concepts covered in the Graphics Statistical Computing:
 - Basic plotting with Plots.jl
 - Histograms
 - Scatter plots

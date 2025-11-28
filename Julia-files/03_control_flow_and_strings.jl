@@ -1,5 +1,5 @@
 """
-This file demonstrates concepts covered in the Control Flow and Strings folder:
+This file demonstrates concepts covered in the Control Flow and Strings Statistical Computingr:
 - Conditional statements (if/elseif/else)
 - Loops (for, while)
 - Control flow keywords (break, continue)

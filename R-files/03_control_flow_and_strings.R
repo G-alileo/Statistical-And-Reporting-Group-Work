@@ -1,4 +1,4 @@
-# This file demonstrates concepts covered in the Control Flow and Strings folder:
+# This file demonstrates concepts covered in the Control Flow and Strings Statistical Computing:
 # - Conditional statements (if/else)
 # - Loops (for, while)
 # - Control flow keywords (break, next)
