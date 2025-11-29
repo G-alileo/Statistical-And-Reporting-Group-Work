@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This repository demonstrates statistical computing concepts across three programming languages (Python, Julia, and R). The project contains **51 total files** (17 per language) covering fundamental to advanced topics in statistical computing, with implementations in each language showcasing language-specific features and best practices.
+This repository demonstrates statistical computing concepts across three programming languages (Python, Julia, and R). The project contains **57 total files** (19 per language) covering fundamental to advanced topics in statistical computing, with implementations in each language showcasing language-specific features and best practices.
 
 **Status:** ✅ All implementations complete
 
@@ -10,13 +10,13 @@ This repository demonstrates statistical computing concepts across three program
 
 ## 👥 Team Members
 
-| Name               | Registration Number | Role                      | Assigned Files     | Status |
-| ------------------ | ------------------- | ------------------------- | ------------------ | ------ |
-| Jamespeter Murithi | BSCCS/2023/61479    | Team Lead                 | Files 1-4    | ✅ Complete |
-| Abel Rono          | BSCCS/2023/72524    | Machine Learning Engineer | Files 5-8    | ✅ Complete |
-| Linah Kamau        | BSCCS/2023/60311    | Quality Assurance Analyst | Files 13-15  | ✅ Complete |
-| Brian Macharia    | BSCCS/2023/XXXXX     | Data Scientist            | Files 9-12   | ✅ Complete |
-| Fred Kiboga       | BSCCS/2023/60132     | Data Engineer             | Files 17-19   | ✅ Complete |
+| Name               | Registration Number | Role                      | Assigned Files | Status      |
+| ------------------ | ------------------- | ------------------------- | -------------- | ----------- |
+| Jamespeter Murithi | BSCCS/2023/61479    | Team Lead                 | Files 1-4      | ✅ Complete |
+| Abel Rono          | BSCCS/2023/72524    | Machine Learning Engineer | Files 5-8      | ✅ Complete |
+| Linah Kamau        | BSCCS/2023/60311    | Quality Assurance Analyst | Files 13-15    | ✅ Complete |
+| Brian Macharia     | BSCCS/2023/59275    | Data Scientist            | Files 9-12     | ✅ Complete |
+| Fred Kiboga        | BSCCS/2023/60132    | Data Engineer             | Files 17-19    | ✅ Complete |
 
 ---
 
@@ -84,70 +84,70 @@ Statistical-And-Reporting-Group-Work/
     ├── 19_databases.R
     └── README.md
 
-Total Files: 51/51 Complete (100%) ✅
+Total Files: 57/57 Complete (100%) ✅
 ```
 
 ---
 
 ## 📋 File Assignment Tracker
 
-### ✅ All Files Complete (51/51)
+### ✅ All Files Complete (57/57)
 
-| File Name | Language | Status | Assigned To | Topics Covered |
-|-----------|----------|--------|-------------|----------------|
-| `01_basics_of_data.py` | Python | ✅ Done | James_Murithi | Data types, operators, variables, vectors |
-| `02_arrays_and_dataframes.py` | Python | ✅ Done | James_Murithi | Arrays, matrices, DataFrames, data manipulation |
-| `03_control_flow_and_strings.py` | Python | ✅ Done | James_Murithi | Conditionals, loops, string operations |
-| `04_graphics.py` | Python | ✅ Done | James_Murithi | Plotting, visualization, statistical graphics |
-| `05_writing_functions.py` | Python | ✅ Done | Abel_Rono | Function creation, decorators, lambda functions |
-| `06_getting_data_and_linear_models.py` | Python | ✅ Done | Abel_Rono | Data I/O, linear regression, model evaluation |
-| `07_distributions.py` | Python | ✅ Done | Abel_Rono | Probability distributions, hypothesis testing |
-| `08_optimisation_1.py` | Python | ✅ Done | Abel_Rono | Unconstrained optimization, gradient methods |
-| `09_optimisation_2.py` | Python | ✅ Done | Brian_Macharia | Constrained optimization, advanced methods |
-| `10_simulation.py` | Python | ✅ Done | Brian_Macharia | Monte Carlo simulation, random processes |
-| `11_mcmc_I.py` | Python | ✅ Done | Brian_Macharia | Markov Chain Monte Carlo, Metropolis-Hastings |
-| `12_bootstrap.py` | Python | ✅ Done | Brian_Macharia | Bootstrap resampling, confidence intervals |
-| `13_cross_validation.py` | Python | ✅ Done | Linah_Kamau | K-fold CV, model validation, performance metrics |
-| `14_density_estimation.py` | Python | ✅ Done | Linah_Kamau | Kernel density estimation, bandwidth selection |
-| `15_bayesian_statistics.py` | Python | ✅ Done | Linah_Kamau | Bayesian inference, posterior distributions |
-| `17_mcmc_II.py` | Python | ✅ Done | Fred_Kiboga | Advanced MCMC, Gibbs sampling, diagnostics |
-| `18_permutation_tests.py` | Python | ✅ Done | Fred_Kiboga | Permutation tests, bootstrap, resampling |
-| `19_databases.py` | Python | ✅ Done | Fred_Kiboga | SQLite, database operations, data persistence |
-| `01_basics_of_data.jl` | Julia | ✅ Done | James_Murithi | Data types, operators, variables, vectors |
-| `02_arrays_and_dataframes.jl` | Julia | ✅ Done | James_Murithi | Arrays, matrices, DataFrames, data manipulation |
-| `03_control_flow_and_strings.jl` | Julia | ✅ Done | James_Murithi | Conditionals, loops, string operations |
-| `04_graphics.jl` | Julia | ✅ Done | James_Murithi | Plotting, visualization, statistical graphics |
-| `05_writing_functions.jl` | Julia | ✅ Done | Abel_Rono | Function syntax, multiple dispatch, methods |
-| `06_getting_data_and_linear_models.jl` | Julia | ✅ Done | Abel_Rono | Data import/export, GLM, linear models |
-| `07_distributions.jl` | Julia | ✅ Done | Abel_Rono | Distributions.jl, sampling, statistical tests |
-| `08_optimisation_1.jl` | Julia | ✅ Done | Abel_Rono | Optim.jl, optimization methods, minimization |
-| `09_optimisation_2.jl` | Julia | ✅ Done | Brian_Macharia | Constrained optimization, numerical methods |
-| `10_simulation.jl` | Julia | ✅ Done | Brian_Macharia | Monte Carlo methods, random generation |
-| `11_mcmc_I.jl` | Julia | ✅ Done | Brian_Macharia | MCMC fundamentals, Metropolis-Hastings |
-| `12_bootstrap.jl` | Julia | ✅ Done | Brian_Macharia | Bootstrap methods, confidence intervals |
-| `13_cross_validation.jl` | Julia | ✅ Done | Linah_Kamau | Model validation, k-fold CV, metrics |
-| `14_density_estimation.jl` | Julia | ✅ Done | Linah_Kamau | Kernel density, histogram methods |
-| `15_bayesian_statistics.jl` | Julia | ✅ Done | Linah_Kamau | Bayesian inference, credible intervals |
-| `17_mcmc_II.jl` | Julia | ✅ Done | Fred_Kiboga | Advanced MCMC, Gibbs sampling, convergence |
-| `18_permutation_tests.jl` | Julia | ✅ Done | Fred_Kiboga | Non-parametric tests, resampling strategies |
-| `19_databases.jl` | Julia | ✅ Done | Fred_Kiboga | Database connectivity, SQL queries |
-| `01_basics_of_data.R` | R | ✅ Done | James_Murithi | Data types, operators, variables, vectors |
-| `02_arrays_and_dataframes.R` | R | ✅ Done | James_Murithi | Arrays, matrices, data frames, manipulation |
-| `03_control_flow_and_strings.R` | R | ✅ Done | James_Murithi | Conditionals, loops, string operations |
-| `04_graphics.R` | R | ✅ Done | James_Murithi | ggplot2, base R plots, statistical graphics |
-| `05_writing_functions.R` | R | ✅ Done | Abel_Rono | Function definition, functional programming |
-| `06_getting_data_and_linear_models.R` | R | ✅ Done | Abel_Rono | Data import, lm(), model diagnostics |
-| `07_distributions.R` | R | ✅ Done | Abel_Rono | R distributions (d,p,q,r), statistical tests |
-| `08_optimisation_1.R` | R | ✅ Done | Abel_Rono | optim(), optimization methods |
-| `09_optimisation_2.R` | R | ✅ Done | Brian_Macharia | Constrained optimization, constrOptim() |
-| `10_simulation.R` | R | ✅ Done | Brian_Macharia | Monte Carlo, random generation, set.seed() |
-| `11_mcmc_I.R` | R | ✅ Done | Brian_Macharia | MCMC basics, Metropolis-Hastings |
-| `12_bootstrap.R` | R | ✅ Done | Brian_Macharia | Bootstrap resampling, BCa intervals |
-| `13_cross_validation.R` | R | ✅ Done | Linah_Kamau | K-fold CV, caret package, model validation |
-| `14_density_estimation.R` | R | ✅ Done | Linah_Kamau | Kernel density, density() function |
-| `15_bayesian_statistics.R` | R | ✅ Done | Linah_Kamau | Bayesian inference, rstan integration |
-| `18_permutation_tests.R` | R | ✅ Done | Fred_Kiboga | Permutation tests, non-parametric methods |
-| `19_databases.R` | R | ✅ Done | Fred_Kiboga | DBI, RSQLite, database management |
+| File Name                              | Language | Status  | Assigned To    | Topics Covered                                   |
+| -------------------------------------- | -------- | ------- | -------------- | ------------------------------------------------ |
+| `01_basics_of_data.py`                 | Python   | ✅ Done | James_Murithi  | Data types, operators, variables, vectors        |
+| `02_arrays_and_dataframes.py`          | Python   | ✅ Done | James_Murithi  | Arrays, matrices, DataFrames, data manipulation  |
+| `03_control_flow_and_strings.py`       | Python   | ✅ Done | James_Murithi  | Conditionals, loops, string operations           |
+| `04_graphics.py`                       | Python   | ✅ Done | James_Murithi  | Plotting, visualization, statistical graphics    |
+| `05_writing_functions.py`              | Python   | ✅ Done | Abel_Rono      | Function creation, decorators, lambda functions  |
+| `06_getting_data_and_linear_models.py` | Python   | ✅ Done | Abel_Rono      | Data I/O, linear regression, model evaluation    |
+| `07_distributions.py`                  | Python   | ✅ Done | Abel_Rono      | Probability distributions, hypothesis testing    |
+| `08_optimisation_1.py`                 | Python   | ✅ Done | Abel_Rono      | Unconstrained optimization, gradient methods     |
+| `09_optimisation_2.py`                 | Python   | ✅ Done | Brian_Macharia | Constrained optimization, advanced methods       |
+| `10_simulation.py`                     | Python   | ✅ Done | Brian_Macharia | Monte Carlo simulation, random processes         |
+| `11_mcmc_I.py`                         | Python   | ✅ Done | Brian_Macharia | Markov Chain Monte Carlo, Metropolis-Hastings    |
+| `12_bootstrap.py`                      | Python   | ✅ Done | Brian_Macharia | Bootstrap resampling, confidence intervals       |
+| `13_cross_validation.py`               | Python   | ✅ Done | Linah_Kamau    | K-fold CV, model validation, performance metrics |
+| `14_density_estimation.py`             | Python   | ✅ Done | Linah_Kamau    | Kernel density estimation, bandwidth selection   |
+| `15_bayesian_statistics.py`            | Python   | ✅ Done | Linah_Kamau    | Bayesian inference, posterior distributions      |
+| `17_mcmc_II.py`                        | Python   | ✅ Done | Fred_Kiboga    | Advanced MCMC, Gibbs sampling, diagnostics       |
+| `18_permutation_tests.py`              | Python   | ✅ Done | Fred_Kiboga    | Permutation tests, bootstrap, resampling         |
+| `19_databases.py`                      | Python   | ✅ Done | Fred_Kiboga    | SQLite, database operations, data persistence    |
+| `01_basics_of_data.jl`                 | Julia    | ✅ Done | James_Murithi  | Data types, operators, variables, vectors        |
+| `02_arrays_and_dataframes.jl`          | Julia    | ✅ Done | James_Murithi  | Arrays, matrices, DataFrames, data manipulation  |
+| `03_control_flow_and_strings.jl`       | Julia    | ✅ Done | James_Murithi  | Conditionals, loops, string operations           |
+| `04_graphics.jl`                       | Julia    | ✅ Done | James_Murithi  | Plotting, visualization, statistical graphics    |
+| `05_writing_functions.jl`              | Julia    | ✅ Done | Abel_Rono      | Function syntax, multiple dispatch, methods      |
+| `06_getting_data_and_linear_models.jl` | Julia    | ✅ Done | Abel_Rono      | Data import/export, GLM, linear models           |
+| `07_distributions.jl`                  | Julia    | ✅ Done | Abel_Rono      | Distributions.jl, sampling, statistical tests    |
+| `08_optimisation_1.jl`                 | Julia    | ✅ Done | Abel_Rono      | Optim.jl, optimization methods, minimization     |
+| `09_optimisation_2.jl`                 | Julia    | ✅ Done | Brian_Macharia | Constrained optimization, numerical methods      |
+| `10_simulation.jl`                     | Julia    | ✅ Done | Brian_Macharia | Monte Carlo methods, random generation           |
+| `11_mcmc_I.jl`                         | Julia    | ✅ Done | Brian_Macharia | MCMC fundamentals, Metropolis-Hastings           |
+| `12_bootstrap.jl`                      | Julia    | ✅ Done | Brian_Macharia | Bootstrap methods, confidence intervals          |
+| `13_cross_validation.jl`               | Julia    | ✅ Done | Linah_Kamau    | Model validation, k-fold CV, metrics             |
+| `14_density_estimation.jl`             | Julia    | ✅ Done | Linah_Kamau    | Kernel density, histogram methods                |
+| `15_bayesian_statistics.jl`            | Julia    | ✅ Done | Linah_Kamau    | Bayesian inference, credible intervals           |
+| `17_mcmc_II.jl`                        | Julia    | ✅ Done | Fred_Kiboga    | Advanced MCMC, Gibbs sampling, convergence       |
+| `18_permutation_tests.jl`              | Julia    | ✅ Done | Fred_Kiboga    | Non-parametric tests, resampling strategies      |
+| `19_databases.jl`                      | Julia    | ✅ Done | Fred_Kiboga    | Database connectivity, SQL queries               |
+| `01_basics_of_data.R`                  | R        | ✅ Done | James_Murithi  | Data types, operators, variables, vectors        |
+| `02_arrays_and_dataframes.R`           | R        | ✅ Done | James_Murithi  | Arrays, matrices, data frames, manipulation      |
+| `03_control_flow_and_strings.R`        | R        | ✅ Done | James_Murithi  | Conditionals, loops, string operations           |
+| `04_graphics.R`                        | R        | ✅ Done | James_Murithi  | ggplot2, base R plots, statistical graphics      |
+| `05_writing_functions.R`               | R        | ✅ Done | Abel_Rono      | Function definition, functional programming      |
+| `06_getting_data_and_linear_models.R`  | R        | ✅ Done | Abel_Rono      | Data import, lm(), model diagnostics             |
+| `07_distributions.R`                   | R        | ✅ Done | Abel_Rono      | R distributions (d,p,q,r), statistical tests     |
+| `08_optimisation_1.R`                  | R        | ✅ Done | Abel_Rono      | optim(), optimization methods                    |
+| `09_optimisation_2.R`                  | R        | ✅ Done | Brian_Macharia | Constrained optimization, constrOptim()          |
+| `10_simulation.R`                      | R        | ✅ Done | Brian_Macharia | Monte Carlo, random generation, set.seed()       |
+| `11_mcmc_I.R`                          | R        | ✅ Done | Brian_Macharia | MCMC basics, Metropolis-Hastings                 |
+| `12_bootstrap.R`                       | R        | ✅ Done | Brian_Macharia | Bootstrap resampling, BCa intervals              |
+| `13_cross_validation.R`                | R        | ✅ Done | Linah_Kamau    | K-fold CV, caret package, model validation       |
+| `14_density_estimation.R`              | R        | ✅ Done | Linah_Kamau    | Kernel density, density() function               |
+| `15_bayesian_statistics.R`             | R        | ✅ Done | Linah_Kamau    | Bayesian inference, rstan integration            |
+| `18_permutation_tests.R`               | R        | ✅ Done | Fred_Kiboga    | Permutation tests, non-parametric methods        |
+| `19_databases.R`                       | R        | ✅ Done | Fred_Kiboga    | DBI, RSQLite, database management                |
 
 ## 📂 Implementation Details
 
@@ -255,9 +255,9 @@ install.packages(c("dplyr", "ggplot2", "tidyr", "readr", "stringr"))
 13. **Cross-Validation** - Model validation
 14. **Density Estimation** - Kernel density methods
 15. **Bayesian Statistics** - Bayesian inference
-17. **MCMC II** - Advanced MCMC methods
-18. **Permutation Tests** - Non-parametric tests
-19. **Databases** - Database operations
+16. **MCMC II** - Advanced MCMC methods
+17. **Permutation Tests** - Non-parametric tests
+18. **Databases** - Database operations
 
 ### Language Comparison
 
@@ -387,12 +387,12 @@ Each file should follow this structure:
 
 ## 📊 Progress Tracking
 
-### Overall Progress: 100% Complete (51/51 files) ✅
+### Overall Progress: 100% Complete (57/57 files) ✅
 
 ```
-Python:   ████████ 100% (17/17 files) ✅
-Julia:    ████████ 100% (17/17 files) ✅
-R:        ████████ 100% (17/17 files) ✅
+Python:   ████████ 100% (19/19 files) ✅
+Julia:    ████████ 100% (19/19 files) ✅
+R:        ████████ 100% (19/19 files) ✅
 ```
 
 **Project Status:**
