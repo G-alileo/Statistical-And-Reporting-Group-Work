@@ -61,6 +61,54 @@ python 04_graphics.py
 python -i 01_basics_of_data.py
 ```
 
+## 🖼️ Visual Gallery
+
+Below are example visualizations created with the Python scripts in this directory:
+
+### Basic Plots
+
+<div align="center">
+
+| Sine Wave | Histogram | Scatter Plot |
+|:---------:|:---------:|:------------:|
+| ![Sine Wave](../assets/01_sine_wave.png) | ![Histogram](../assets/02_histogram.png) | ![Scatter Plot](../assets/03_scatter_plot.png) |
+| Basic line plot | Distribution visualization | Correlation analysis |
+
+</div>
+
+### Statistical Visualizations
+
+<div align="center">
+
+| Box Plot | Subplots | ECDF |
+|:--------:|:--------:|:----:|
+| ![Box Plot](../assets/04_boxplot.png) | ![Subplots](../assets/05_subplots.png) | ![ECDF](../assets/06_ecdf.png) |
+| Outlier detection | Multiple plots | Cumulative distribution |
+
+</div>
+
+### Advanced Graphics
+
+<div align="center">
+
+| Q-Q Plot | Pair Plot | Contour Plot |
+|:--------:|:---------:|:------------:|
+| ![Q-Q Plot](../assets/07_qqplot.png) | ![Pair Plot](../assets/08_pairplot.png) | ![Contour Plot](../assets/09_contour.png) |
+| Normality assessment | Multivariate relationships | 2D density |
+
+</div>
+
+### 3D Visualizations
+
+<div align="center">
+
+| 3D Surface | Customized Plot |
+|:----------:|:---------------:|
+| ![3D Surface](../assets/10_surface3d.png) | ![Customized](../assets/11_customized.png) |
+| Three-dimensional data | Publication-ready styling |
+
+</div>
+
 ## 💡 Key Features
 
 ### Python Advantages
@@ -179,6 +227,8 @@ By working through these files, you will:
 - Statistical plots (ECDF, Q-Q plots)
 - 3D visualization
 - Plot customization
+
+**Example Outputs:** See the [Visual Gallery](#-visual-gallery) section for generated plots from this file.
 
 #### 05_writing_functions.py
 

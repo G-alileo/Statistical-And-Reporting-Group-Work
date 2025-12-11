@@ -1,5 +1,17 @@
 # Statistical Computing Multi-Language Implementation
 
+<div align="center">
+
+![Statistical Visualization](assets/08_pairplot.png)
+
+**A comprehensive implementation of statistical computing concepts across Python, Julia, and R**
+
+[![Status: Complete](https://img.shields.io/badge/Status-Complete-success)](https://github.com/G-alileo/Statistical-And-Reporting-Group-Work)
+[![Files: 57/57](https://img.shields.io/badge/Files-57%2F57-blue)](https://github.com/G-alileo/Statistical-And-Reporting-Group-Work)
+[![Languages: 3](https://img.shields.io/badge/Languages-Python%20%7C%20Julia%20%7C%20R-orange)](https://github.com/G-alileo/Statistical-And-Reporting-Group-Work)
+
+</div>
+
 ## Project Overview
 
 This repository demonstrates statistical computing concepts across three programming languages (Python, Julia, and R). The project contains **57 total files** (19 per language) covering fundamental to advanced topics in statistical computing, with implementations in each language showcasing language-specific features and best practices.
@@ -148,6 +160,30 @@ Total Files: 57/57 Complete (100%) ✅
 | `15_bayesian_statistics.R`             | R        | ✅ Done | Linah_Kamau    | Bayesian inference, rstan integration            |
 | `18_permutation_tests.R`               | R        | ✅ Done | Fred_Kiboga    | Permutation tests, non-parametric methods        |
 | `19_databases.R`                       | R        | ✅ Done | Fred_Kiboga    | DBI, RSQLite, database management                |
+
+## 🖼️ Visual Showcase
+
+Our implementations produce professional statistical visualizations across all three languages:
+
+<div align="center">
+
+### Data Visualization Examples
+
+| Basic Plots | Statistical Analysis | Advanced Graphics |
+|:-----------:|:--------------------:|:-----------------:|
+| ![Sine Wave](assets/01_sine_wave.png) | ![Histogram](assets/02_histogram.png) | ![3D Surface](assets/10_surface3d.png) |
+| Time series and trends | Distribution analysis | Three-dimensional data |
+
+| Correlation Analysis | Box Plot | Contour Plot |
+|:--------------------:|:--------:|:------------:|
+| ![Scatter](assets/03_scatter_plot.png) | ![Box Plot](assets/04_boxplot.png) | ![Contour](assets/09_contour.png) |
+| Relationships between variables | Outlier detection | Density visualization |
+
+</div>
+
+*All visualizations generated from the `04_graphics.*` files across Python, Julia, and R implementations.*
+
+---
 
 ## 🛠️ Technologies & Concepts Covered
 
@@ -317,6 +353,27 @@ R:        ████████ 100% (19/19 files) ✅
 
 ---
 
+## 📈 Sample Outputs
+
+<div align="center">
+
+### Statistical Analysis Visualizations
+
+| ECDF Plot | Q-Q Plot | Customized Plot |
+|:---------:|:--------:|:---------------:|
+| ![ECDF](assets/06_ecdf.png) | ![Q-Q Plot](assets/07_qqplot.png) | ![Customized](assets/11_customized.png) |
+| Empirical cumulative distribution | Normality assessment | Publication-ready graphics |
+
+**Multiple Plot Layouts**
+
+![Subplots](assets/05_subplots.png)
+
+*Example of complex multi-panel visualizations demonstrating various statistical concepts in a single figure*
+
+</div>
+
+---
+
 ## 📄 License
 
 This project is created for educational purposes as part of **Statistical Computing and Reporting (BIT4131)**. All rights reserved by the team members listed above.
@@ -371,4 +428,4 @@ This project is created for educational purposes as part of **Statistical Comput
 
 **Last Updated:** November 29, 2025  
 **Repository:** [Statistical-And-Reporting-Group-Work](https://github.com/G-alileo/Statistical-And-Reporting-Group-Work)  
-**Status:** ✅ Complete - Ready for Submission
+**Status:** ✅ Complete 
